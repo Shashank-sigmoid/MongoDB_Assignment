@@ -1,4 +1,4 @@
 # MongoDB Assignment
 
-### Problem Statements are in the PDF file
+### Problem statements are in the PDF file
 ### Tech stacks: MongoDB and Python
